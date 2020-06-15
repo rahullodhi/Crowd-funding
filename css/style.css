@@ -12327,6 +12327,7 @@ footer .lower-footer p a {
   border: 1px solid #ddd;
   background: white;
   padding: 15px;
+  transition: 0.5s;
 }
 .sponsors .img-holder {
   height: 240px;
@@ -12584,6 +12585,7 @@ section#counter-stats {
   border: 1px solid #ddd;
   /* box-shadow: 0 0 5px #ddd; */
   margin-left: 20px;
+  margin-bottom: 10px;
 }
 .donate_content {
   padding: 15px 15px 15px 15px;
@@ -12691,3 +12693,16 @@ section:nth-child( even ) {
   margin-bottom: 50px;
   margin-top: -30px
 }
+
+.box:hover {
+  background: #ba9a3a;
+}
+.box:hover h3 {
+  color: #cf2027;
+}
+ .box:hover p{
+   color: #fff;
+ }
+ .ongoin_main:hover{
+    box-sizing: 0 0 10px #b7b7b7;
+ }

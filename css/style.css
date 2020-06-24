@@ -13103,7 +13103,7 @@ img.money {
 
 .details.individuals .donate-amount ul li span {
   font-family: 'Roboto', sans-serif;
-  color: #444 !important;
+  color: #868686 !important;
 }
 .fount_content h6 {
   display: inline-block;
@@ -13112,4 +13112,5 @@ img.money {
   font-size: 15px;
   margin-bottom: 0;
     margin-top: 14px;
+    color: #868686;
 }
